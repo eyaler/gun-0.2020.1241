@@ -59,7 +59,6 @@
     "directory": "types"
   },
   "dependencies": {
-    "uglifyjs": "^2.4.11",
     "ws": "^7.2.1"
   },
   "optionalDependencies": {
